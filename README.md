@@ -1,0 +1,5 @@
+This repository supplements the the study Elles et al. (2024) "Supporting conservation planning in a national biodiversity hotspot- Projecting species composition across a groundwater level gradient using a demographic forest model". 
+
+This repository documents the code used to: Calculate the demographic rates derived from the forest inventor data surveyed in the Leipzig Floodplain Forest by the "Lebendige Luppe" project. Further it containes the code to run the PPA model, which predicts the species composition under current and elevated groundwater conditions. The Initial states used as parameters in the model are obtained from a master thesis project conducted by Boyce (2024). Furthermore the repository containes: The demographic rates, model outputs, relevant figures and tables to supplement the written study.
+
+The full data used in this work is not yet openly accessible. Please contact the authors to discuss access to the other original data.
