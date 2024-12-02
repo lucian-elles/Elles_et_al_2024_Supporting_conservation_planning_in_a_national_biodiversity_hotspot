@@ -18,7 +18,7 @@ main_cohorts_tidy = function(
  # define basic settings: 
   deltaT = 1         # model timestep
   maxT = 100        # maximum simulation time
-  dnot = 0.1         # dbh with which recruits are "born"
+  dnot = 5         # dbh with which recruits are "born"
   PA = 10000         # simulation area in m² 
   cutT = 1           # timesteps, at which stats shall be recorded
   mincohortN = 0.01  # minimum number of trees in a cohort, before cohort gets removed

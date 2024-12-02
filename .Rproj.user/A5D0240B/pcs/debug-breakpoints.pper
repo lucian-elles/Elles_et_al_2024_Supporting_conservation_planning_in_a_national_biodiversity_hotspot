@@ -1,0 +1,51 @@
+{
+    "debugBreakpointsState": {
+        "breakpoints": [
+            {
+                "id": 9,
+                "path": "C:/Users/lelle/OneDrive/Desktop/iDIV/Masterarbeit/R/Projekt Schorn/functions_lelu.R",
+                "line_number": 69,
+                "function_steps": "4,3,2,3,4",
+                "function_name": "helper.function.assign.trees.to.crown.layers",
+                "state": 1,
+                "editor_state": 1,
+                "editor_line_number": 69,
+                "is_pending_debug_completion": false,
+                "needs_updated_steps": false,
+                "type": 0,
+                "is_package_breakpoint": false,
+                "package_name": ""
+            },
+            {
+                "id": 10,
+                "path": "C:/Users/lelle/OneDrive/Desktop/iDIV/Masterarbeit/R/Projekt Schorn/Scripte Juli/demographic_rates_all.R",
+                "line_number": 3,
+                "function_steps": "",
+                "function_name": "toplevel",
+                "state": 1,
+                "editor_state": 1,
+                "editor_line_number": 3,
+                "is_pending_debug_completion": false,
+                "needs_updated_steps": false,
+                "type": 1,
+                "is_package_breakpoint": false,
+                "package_name": ""
+            },
+            {
+                "id": 11,
+                "path": "C:/Users/lelle/OneDrive/Desktop/iDIV/Masterarbeit/R/Projekt Schorn/Scripte Juli/demographic_rates_all_neue_Struktur_plots_1312_backup.R",
+                "line_number": 277,
+                "function_steps": "",
+                "function_name": "toplevel",
+                "state": 1,
+                "editor_state": 1,
+                "editor_line_number": 277,
+                "is_pending_debug_completion": false,
+                "needs_updated_steps": false,
+                "type": 1,
+                "is_package_breakpoint": false,
+                "package_name": ""
+            }
+        ]
+    }
+}
